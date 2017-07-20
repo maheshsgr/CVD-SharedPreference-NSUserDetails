@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-sharedpreference-nsuserdefaults",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Cordova SharedPreference and NSUserDetails Plugin",
   "cordova": {
     "id": "cordova-plugin-sharedpreference-nsuserdetails",
