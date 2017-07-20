@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-sharedpreference-nsuserdefaults",
+  "version": "1.0.1",
+  "description": "Cordova SharedPreference and NSUserDetails Plugin",
+  "cordova": {
+    "id": "cordova-plugin-sharedpreference-nsuserdetails",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshsgr/CVD-SharedPreference-NSUserDetails.git"
+  },
+  "keywords": [
+    "cordova",
+    "sharedpreference",
+    "nsuserdetails",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "mohan kumar",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/maheshsgr/CVD-SharedPreference-NSUserDetails/issues"
+  },
+  "homepage": "https://github.com/maheshsgr/CVD-SharedPreference-NSUserDetails#readme"
+}
